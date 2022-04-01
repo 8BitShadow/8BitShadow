@@ -4,7 +4,8 @@
       - Adds an auto-complete function that uses the 'tab' key instead of the :arrow_down: key, called "B.A.C."
       - A "Multi-User Targeting" system; which fetches a list of all players that matches a query, called "M.U.T."
       - A binding system; allowing toggle or 'simultaneous' commands to be bound to keys.
-      - And includes a playerStats API; which allows you to fetch almost any statistic attached to a characterBody with nothing but a string, called "T.M.I."!
+      - includes a playerStats API; which allows you to fetch almost any statistic attached to a characterBody with nothing but a string, called "T.M.I."!
+      - and a unit test assistant; allowing modders to create unit tests for their mods through delegates, called "UTA".
 
 - What's next?
   - A game, or two.
