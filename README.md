@@ -1,6 +1,8 @@
 ## Welcome to 8GitHub!
 - Curious what I'm working on?
-  - A modpack for "Risk of Rain 2" called "Console Overhaul", a utility modpack for modders and server administrators.
+  - A modpack for "Risk of Rain 2" called
+  ![console overhaul](https://github.com/8BitShadow/media-resources/blob/main/console%20overhaul.png?raw=true)
+  - a utility modpack for modders and server administrators.
       - Adds an auto-complete function that uses the 'tab' key instead of the :arrow_down: key, called "B.A.C."
       - A "Multi-User Targeting" system; which fetches a list of all players that matches a query, called "M.U.T."
       - A binding system; allowing toggle or 'simultaneous' commands to be bound to keys.
