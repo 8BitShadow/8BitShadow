@@ -9,13 +9,17 @@
       - includes a playerStats API; which allows you to fetch almost any statistic attached to a characterBody with nothing but a string, called "T.M.I."!
       - and a unit test assistant; allowing modders to create unit tests for their mods through delegates, called "UTA".
 
+  - A new method of falling partical simulation
+      - **doesn't** rely on atomic operations, allowing it to run deteched from the CPU.
+      - **doesn't** rely on multi-buffering techniques, allowing simulation speed to be beyond CPU frame polling.
+      - All while still immune to race conditions.
+
 - What's next?
   - A game, or two.
   - A liquid displacement/ripple algorithm.
   - A raytracing lighting engine for 2D games.
-  - Something secret. :shushing_face:
      
-I also have a [gitlab](https://gitlab.com/8bit_shadow) page too!
+I also have a [gitlab](https://gitlab.com/8bit_shadow) and a [codeberg](https://codeberg.org/I8Bit_ShadowI) page too!
 
 
 
