@@ -1,18 +1,17 @@
 ## Welcome to 8GitHub!
 - Curious what I'm working on?
-  - A modpack for "Risk of Rain 2" called
-  ![console overhaul](https://github.com/8BitShadow/media-resources/blob/main/console%20overhaul.png?raw=true)
-  - a utility modpack for modders and server administrators.
+  - [A modpack for "Risk of Rain 2" called](https://github.com/8BtS-A-to-IA/Console-Overhaul) ![console overhaul](https://github.com/8BitShadow/media-resources/blob/main/console%20overhaul.png?raw=true), a utility modpack for modders and server administrators.
       - Adds an auto-complete function that uses the 'tab' key instead of the :arrow_down: key, called "B.A.C."
       - A "Multi-User Targeting" system; which fetches a list of all players that matches a query, called "M.U.T."
       - A binding system; allowing toggle or 'simultaneous' commands to be bound to keys.
       - includes a playerStats API; which allows you to fetch almost any statistic attached to a characterBody with nothing but a string, called "T.M.I."!
       - and a unit test assistant; allowing modders to create unit tests for their mods through delegates, called "UTA".
-
-  - A new method of falling partical simulation
+        
+  - A new method of falling partical simulation.
       - **doesn't** rely on atomic operations, allowing it to run deteched from the CPU.
       - **doesn't** rely on multi-buffering techniques, allowing simulation speed to be beyond CPU frame polling.
       - All while still immune to race conditions.
+----
 
 - What's next?
   - A game, or two.
